@@ -4,6 +4,8 @@ I'm Rafa, a full-stack web developer student living in Caracas, Venezuela. My pa
 
 Soy Rafa, estudiante desarrollador web full stack y vivo en Caracas, Venezuela, . Mi pasión es crear aplicaciones y sitios web de alta calidad que brinden experiencias de usuario excepcionales. Recientemente, he estado en el estudio en tecnologías como React, JavaScript, CSS, Wordpress. No dudes en conversar conmigo sobre cualquier tema relacionado con el desarrollo web.
 
+<img src="https://camo.githubusercontent.com/4cacda0986f3b28d8e3ba582170a500ca6cdb5e1ba4c8542fb7862a07d1fde44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4578706572742d79656c6c6f77" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-yellow" style="max-width: 100%;">
+
 <!--
 **rgerdel/rgerdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
