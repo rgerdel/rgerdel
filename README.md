@@ -1,3 +1,6 @@
+### Desarrollador Full Stack | Apasionado por la tecnología y la innovación.
+
+
 # Hi 👋 My name is Rafael Gerdel
 
 I'm Rafa, a full-stack web developer student living in Caracas, Venezuela. My passion is building high-quality applications and websites that deliver exceptional user experiences. Recently, I've been studying technologies like React, JavaScript, CSS, and WordPress. I enjoy solving problems through code and continuously learning new tools and best practices in web development. Feel free to chat with me about any web development-related topic or collaboration opportunities.
@@ -54,7 +57,12 @@ Soy Rafa, estudiante desarrollador web full stack y vivo en Caracas, Venezuela. 
 </p>
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgerdel)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rgerdel&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgerdel&layout=compact&theme=dracula&hide=html,css,markdown&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+---
 ### Contact & Collaboration
 
 I’m always open to chat about web development, learn new things, or collaborate on exciting projects. Feel free to reach out through any of the social media channels above or send me an email.
@@ -62,4 +70,6 @@ I’m always open to chat about web development, learn new things, or collaborat
 ---
 
 **Thank you for visiting my profile!**
+
+![Profile views](https://komarev.com/ghpvc/?username=rgerdel&color=blue)
 
